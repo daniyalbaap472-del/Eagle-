@@ -326,3 +326,135 @@ https://sliv.tgaadi.workers.https://kliv.fun/jio-plus/ten3hd.m3u8
 https://sliv.tgaadi.workers.dev/sonysixhd.m3u8
 #EXTINF:-1 tvg-id="sonykal" tvg-name="Sony Kal" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/6/6e/Sony_Kal_Logo.jpeg?20240118073607" group-title="SONYLIV", Sony Kal
 https://kids.tgaadi.workers.dev/19833.m3u8
+
+#EXTINF:-1 tvg-id="1108" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png" group-title="Sports",Star Sports 1 HD Hindi
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://elitebeam.shop/Jtv/keys.php?id=1108&token=AXQDcW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://elitebeam.shop/Jtv/mpd.php?id=1108&token=AXQDcW
+
+#EXTINF:-1 tvg-id="362" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Hindi.png" group-title="Sports",Star Sports Hindi 1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://elitebeam.shop/Jtv/keys.php?id=362&token=AXQDcW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://elitebeam.shop/Jtv/mpd.php?id=362&token=AXQDcW
+
+#EXTINF:-1 tvg-id="1106" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1.png" group-title="Sports",Star Sports 1 HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://elitebeam.shop/Jtv/keys.php?id=1106&token=AXQDcW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://elitebeam.shop/Jtv/mpd.php?id=1106&token=AXQDcW
+
+#EXTINF:-1 tvg-id="1142" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1.png" group-title="Sports",Star Sports 1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://elitebeam.shop/Jtv/keys.php?id=1142&token=AXQDcW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://elitebeam.shop/Jtv/mpd.php?id=1142&token=AXQDcW
+
+#EXTINF:-1 tvg-id="1109" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD2.png" group-title="Sports",Star Sports 2 HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://elitebeam.shop/Jtv/keys.php?id=1109&token=AXQDcW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://elitebeam.shop/Jtv/mpd.php?id=1109&token=AXQDcW
+
+#EXTINF:-1 tvg-id="1141" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_2.png" group-title="Sports",Star Sports 2
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://elitebeam.shop/Jtv/keys.php?id=1141&token=AXQDcW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://elitebeam.shop/Jtv/mpd.php?id=1141&token=AXQDcW
+
+#EXTINF:-1 tvg-id="1984" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_HD.png" group-title="Sports",Star Sports 2 Hindi HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://elitebeam.shop/Jtv/keys.php?id=1984&token=AXQDcW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://elitebeam.shop/Jtv/mpd.php?id=1984&token=AXQDcW
+
+#EXTINF:-1 tvg-id="1985" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_SD.png" group-title="Sports",Star Sports 2 Hindi
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://elitebeam.shop/Jtv/keys.php?id=1985&token=AXQDcW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://elitebeam.shop/Jtv/mpd.php?id=1985&token=AXQDcW
+
+#EXTINF:-1 tvg-id="1389" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_3.png" group-title="Sports",Star Sports 3
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://elitebeam.shop/Jtv/keys.php?id=1389&token=AXQDcW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://elitebeam.shop/Jtv/mpd.php?id=1389&token=AXQDcW
+
+#EXTINF:-1 tvg-id="1998" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_Khel.png" group-title="Sports",Star Sports Khel
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://elitebeam.shop/Jtv/keys.php?id=1998&token=AXQDcW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://elitebeam.shop/Jtv/mpd.php?id=1998&token=AXQDcW
+
+#EXTINF:-1 tvg-id="460" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_1.png" group-title="Sports",Star Sports Select 1 HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://elitebeam.shop/Jtv/keys.php?id=460&token=AXQDcW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://elitebeam.shop/Jtv/mpd.php?id=460&token=AXQDcW
+
+#EXTINF:-1 tvg-id="1123" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_1.png" group-title="Sports",Star Sports Select 1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://elitebeam.shop/Jtv/keys.php?id=1123&token=AXQDcW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://elitebeam.shop/Jtv/mpd.php?id=1123&token=AXQDcW
+
+#EXTINF:-1 tvg-id="461" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_2.png" group-title="Sports",Star Sports Select 2 HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://elitebeam.shop/Jtv/keys.php?id=461&token=AXQDcW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://elitebeam.shop/Jtv/mpd.php?id=461&token=AXQDcW
+
+#EXTINF:-1 tvg-id="1114" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_2.png" group-title="Sports",Star Sports Select 2
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://elitebeam.shop/Jtv/keys.php?id=1114&token=AXQDcW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://elitebeam.shop/Jtv/mpd.php?id=1114&token=AXQDcW
+
+#EXTINF:-1 tvg-id="1322" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Flix_HD.png" group-title="Sports",&Flix HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://elitebeam.shop/Jtv/keys.php?id=1322&token=AXQDcW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://elitebeam.shop/Jtv/mpd.php?id=1322&token=AXQDcW
+
+#EXTINF:-1 tvg-id="1319" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cafe_HD.png" group-title="Sports",Zee Cafe HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://elitebeam.shop/Jtv/keys.php?id=1319&token=AXQDcW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://elitebeam.shop/Jtv/mpd.php?id=1319&token=AXQDcW
+
+#EXTINF:-1 tvg-id="3510" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonySportsTen1HDSTB.png" group-title="Sports",Sony Sports Ten 1 HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://elitebeam.shop/Jtv/keys.php?id=3510&token=AXQDcW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://elitebeam.shop/Jtv/mpd.php?id=3510&token=AXQDcW
+
+#EXTINF:-1 tvg-id="3511" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonySportsTen2HDSTB.png" group-title="Sports",Sony Sports Ten 2 HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://elitebeam.shop/Jtv/keys.php?id=3510&token=AXQDcW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://elitebeam.shop/Jtv/mpd.php?id=3510&token=AXQDcW
+
+#EXTINF:-1 tvg-id="3512" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonySportsTen3HinHDSTB.png" group-title="Sports",Sony Sports Ten 3 Hindi HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://elitebeam.shop/Jtv/keys.php?id=3510&token=AXQDcW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://elitebeam.shop/Jtv/mpd.php?id=3510&token=AXQDcW
+
+#EXTINF:-1 tvg-id="3513" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonySportsTen4TelSTB.png" group-title="Sports",Sony Sports Ten 4 Telugu
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://elitebeam.shop/Jtv/keys.php?id=3510&token=AXQDcW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://elitebeam.shop/Jtv/mpd.php?id=3510&token=AXQDcW
+
+#EXTINF:-1 tvg-id="3514" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonySportsTen4TamSTB.png" group-title="Sports",Sony Sports Ten 4 Tamil
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://elitebeam.shop/Jtv/keys.php?id=3510&token=AXQDcW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://elitebeam.shop/Jtv/mpd.php?id=3510&token=AXQDcW
+
+#EXTINF:-1 tvg-id="3515" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonySportsTen5HDSTB.png" group-title="Sports",Sony Sports Ten 5 HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://elitebeam.shop/Jtv/keys.php?id=3510&token=AXQDcW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://elitebeam.shop/Jtv/mpd.php?id=3510&token=AXQDcW
