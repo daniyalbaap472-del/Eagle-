@@ -458,3 +458,301 @@ https://elitebeam.shop/Jtv/mpd.php?id=3510&token=AXQDcW
 #KODIPROP:inputstream.adaptive.license_key=https://elitebeam.shop/Jtv/keys.php?id=3510&token=AXQDcW
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://elitebeam.shop/Jtv/mpd.php?id=3510&token=AXQDcW
+
+#EXTINF:-1 tvg-id="3085" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sach_Bedhadak.png" group-title="News",SACH BEDHADAK
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://elitebeam.shop/Jtv/keys.php?id=3085&token=AXQDcW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://elitebeam.shop/Jtv/mpd.php?id=3085&token=AXQDcW
+
+#EXTINF:-1 tvg-id="2771" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sadhna_News_MP_CG.png" group-title="News",Sadhna News MP CG
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://elitebeam.shop/Jtv/keys.php?id=2771&token=AXQDcW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://elitebeam.shop/Jtv/mpd.php?id=2771&token=AXQDcW
+
+#EXTINF:-1 tvg-id="519" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sadhna_News_Plus.png" group-title="News",Sadhna News Plus
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://elitebeam.shop/Jtv/keys.php?id=519&token=AXQDcW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://elitebeam.shop/Jtv/mpd.php?id=519&token=AXQDcW
+
+#EXTINF:-1 tvg-id="1594" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Samachar_24.png" group-title="News",Samachar 24
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://elitebeam.shop/Jtv/keys.php?id=1594&token=AXQDcW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://elitebeam.shop/Jtv/mpd.php?id=1594&token=AXQDcW
+
+#EXTINF:-1 tvg-id="804" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Samachar_Plus.png" group-title="News",Samachar Plus
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://elitebeam.shop/Jtv/keys.php?id=804&token=AXQDcW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://elitebeam.shop/Jtv/mpd.php?id=804&token=AXQDcW
+
+#EXTINF:-1 tvg-id="1538" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Samachar_Today.png" group-title="News",Samachar Today
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://elitebeam.shop/Jtv/keys.php?id=1538&token=AXQDcW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://elitebeam.shop/Jtv/mpd.php?id=1538&token=AXQDcW
+
+#EXTINF:-1 tvg-id="3261" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Samrat_News_TV.png" group-title="News",Samrat News TV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://elitebeam.shop/Jtv/keys.php?id=3261&token=AXQDcW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://elitebeam.shop/Jtv/mpd.php?id=3261&token=AXQDcW
+
+#EXTINF:-1 tvg-id="520" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Rajyasabha.png" group-title="News",Sansad TV HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://elitebeam.shop/Jtv/keys.php?id=520&token=AXQDcW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://elitebeam.shop/Jtv/mpd.php?id=520&token=AXQDcW
+
+#EXTINF:-1 tvg-id="522" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Loksabha_TV.png" group-title="News",Sansad TV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://elitebeam.shop/Jtv/keys.php?id=522&token=AXQDcW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://elitebeam.shop/Jtv/mpd.php?id=522&token=AXQDcW
+
+#EXTINF:-1 tvg-id="3427" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SansadTV1HD.png" group-title="News",Sansad TV 1 HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://elitebeam.shop/Jtv/keys.php?id=3427&token=AXQDcW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://elitebeam.shop/Jtv/mpd.php?id=3427&token=AXQDcW
+
+#EXTINF:-1 tvg-id="1886" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sansad_TV_RajyaSabha.png" group-title="News",Sansad TV Rajya Sabha
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://elitebeam.shop/Jtv/keys.php?id=1886&token=AXQDcW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://elitebeam.shop/Jtv/mpd.php?id=1886&token=AXQDcW
+
+#EXTINF:-1 tvg-id="3110" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SB_News_24x7.png" group-title="News",SB News 24x7
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://elitebeam.shop/Jtv/keys.php?id=3110&token=AXQDcW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://elitebeam.shop/Jtv/mpd.php?id=3110&token=AXQDcW
+
+#EXTINF:-1 tvg-id="3164" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Shri_News.png" group-title="News",Shri News
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://elitebeam.shop/Jtv/keys.php?id=3164&token=AXQDcW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://elitebeam.shop/Jtv/mpd.php?id=3164&token=AXQDcW
+
+#EXTINF:-1 tvg-id="3168" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sky_India_Tv.png" group-title="News",Sky India Tv
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://elitebeam.shop/Jtv/keys.php?id=3168&token=AXQDcW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://elitebeam.shop/Jtv/mpd.php?id=3168&token=AXQDcW
+
+#EXTINF:-1 tvg-id="851" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SMBC_TV.png" group-title="News",SMBC TV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://elitebeam.shop/Jtv/keys.php?id=851&token=AXQDcW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://elitebeam.shop/Jtv/mpd.php?id=851&token=AXQDcW
+
+#EXTINF:-1 tvg-id="3280" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Soochna_India.png" group-title="News",Soochna India
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://elitebeam.shop/Jtv/keys.php?id=3280&token=AXQDcW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://elitebeam.shop/Jtv/mpd.php?id=3280&token=AXQDcW
+
+#EXTINF:-1 tvg-id="1854" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/STV_Haryana_News.png" group-title="News",STV Haryana News
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://elitebeam.shop/Jtv/keys.php?id=1854&token=AXQDcW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://elitebeam.shop/Jtv/mpd.php?id=1854&token=AXQDcW
+
+#EXTINF:-1 tvg-id="3218" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/STV24_News.png" group-title="News",STV24 News
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://elitebeam.shop/Jtv/keys.php?id=3218&token=AXQDcW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://elitebeam.shop/Jtv/mpd.php?id=3218&token=AXQDcW
+
+#EXTINF:-1 tvg-id="518" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sudarshan.png" group-title="News",Sudarshan
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://elitebeam.shop/Jtv/keys.php?id=518&token=AXQDcW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://elitebeam.shop/Jtv/mpd.php?id=518&token=AXQDcW
+
+#EXTINF:-1 tvg-id="1257" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Samachar.png" group-title="News",Surya Samachar
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://elitebeam.shop/Jtv/keys.php?id=1257&token=AXQDcW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://elitebeam.shop/Jtv/mpd.php?id=1257&token=AXQDcW
+
+#EXTINF:-1 tvg-id="1185" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swadesh_News.png" group-title="News",Swadesh News
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://elitebeam.shop/Jtv/keys.php?id=1185&token=AXQDcW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://elitebeam.shop/Jtv/mpd.php?id=1185&token=AXQDcW
+
+#EXTINF:-1 tvg-id="791" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Taaza_TV.png" group-title="News",Taaza TV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://elitebeam.shop/Jtv/keys.php?id=791&token=AXQDcW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://elitebeam.shop/Jtv/mpd.php?id=791&token=AXQDcW
+
+#EXTINF:-1 tvg-id="2945" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Tar_TV.png" group-title="News",Tar TV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://elitebeam.shop/Jtv/keys.php?id=2945&token=AXQDcW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://elitebeam.shop/Jtv/mpd.php?id=2945&token=AXQDcW
+
+#EXTINF:-1 tvg-id="1240" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TEST10_HD.png" group-title="News",TEST10 HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://elitebeam.shop/Jtv/keys.php?id=1240&token=AXQDcW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://elitebeam.shop/Jtv/mpd.php?id=1240&token=AXQDcW
+
+#EXTINF:-1 tvg-id="1525" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TEST13_HD.png" group-title="News",TEST13 HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://elitebeam.shop/Jtv/keys.php?id=1525&token=AXQDcW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://elitebeam.shop/Jtv/mpd.php?id=1525&token=AXQDcW
+
+#EXTINF:-1 tvg-id="383" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Times_NOW.png" group-title="News",Times NOW
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://elitebeam.shop/Jtv/keys.php?id=383&token=AXQDcW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://elitebeam.shop/Jtv/mpd.php?id=383&token=AXQDcW
+
+#EXTINF:-1 tvg-id="1906" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Times_Now_Navbharat.png" group-title="News",Times Now Navbharat
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://elitebeam.shop/Jtv/keys.php?id=1906&token=AXQDcW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://elitebeam.shop/Jtv/mpd.php?id=1906&token=AXQDcW
+
+#EXTINF:-1 tvg-id="876" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Times_Now_HD.png" group-title="News",Times Now World
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://elitebeam.shop/Jtv/keys.php?id=876&token=AXQDcW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://elitebeam.shop/Jtv/mpd.php?id=876&token=AXQDcW
+
+#EXTINF:-1 tvg-id="3049" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TNI_Awaaz.png" group-title="News",TNI Awaaz
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://elitebeam.shop/Jtv/keys.php?id=3049&token=AXQDcW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://elitebeam.shop/Jtv/mpd.php?id=3049&token=AXQDcW
+
+#EXTINF:-1 tvg-id="3016" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TNI24.png" group-title="News",TNI24
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://elitebeam.shop/Jtv/keys.php?id=3016&token=AXQDcW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://elitebeam.shop/Jtv/mpd.php?id=3016&token=AXQDcW
+
+#EXTINF:-1 tvg-id="1895" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Today_24_News.png" group-title="News",Today 24 News
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://elitebeam.shop/Jtv/keys.php?id=1895&token=AXQDcW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://elitebeam.shop/Jtv/mpd.php?id=1895&token=AXQDcW
+
+#EXTINF:-1 tvg-id="3066" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Today_TV24_UPUK.png" group-title="News",Today 24 News UPUK
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://elitebeam.shop/Jtv/keys.php?id=3066&token=AXQDcW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://elitebeam.shop/Jtv/mpd.php?id=3066&token=AXQDcW
+
+#EXTINF:-1 tvg-id="3227" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Today_India_News.png" group-title="News",Today India News
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://elitebeam.shop/Jtv/keys.php?id=3227&token=AXQDcW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://elitebeam.shop/Jtv/mpd.php?id=3227&token=AXQDcW
+
+#EXTINF:-1 tvg-id="855" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Total_TV.png" group-title="News",Total TV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://elitebeam.shop/Jtv/keys.php?id=855&token=AXQDcW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://elitebeam.shop/Jtv/mpd.php?id=855&token=AXQDcW
+
+#EXTINF:-1 tvg-id="1263" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Total_Tv_Haryana.png" group-title="News",Total TV Haryana
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://elitebeam.shop/Jtv/keys.php?id=1263&token=AXQDcW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://elitebeam.shop/Jtv/mpd.php?id=1263&token=AXQDcW
+
+#EXTINF:-1 tvg-id="916" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TV_100.png" group-title="News",TV 100
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://elitebeam.shop/Jtv/keys.php?id=916&token=AXQDcW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://elitebeam.shop/Jtv/mpd.php?id=916&token=AXQDcW
+
+#EXTINF:-1 tvg-id="2225" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TV24.png" group-title="News",TV24
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://elitebeam.shop/Jtv/keys.php?id=2225&token=AXQDcW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://elitebeam.shop/Jtv/mpd.php?id=2225&token=AXQDcW
+
+#EXTINF:-1 tvg-id="2081" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TV27_News.png" group-title="News",TV27 News
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://elitebeam.shop/Jtv/keys.php?id=2081&token=AXQDcW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://elitebeam.shop/Jtv/mpd.php?id=2081&token=AXQDcW
+
+#EXTINF:-1 tvg-id="885" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TV_5_Monde.png" group-title="News",TV5 Monde
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://elitebeam.shop/Jtv/keys.php?id=885&token=AXQDcW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://elitebeam.shop/Jtv/mpd.php?id=885&token=AXQDcW
+
+#EXTINF:-1 tvg-id="1251" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Bharatvarsh.png" group-title="News",TV9 Bharatvarsh
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://elitebeam.shop/Jtv/keys.php?id=1251&token=AXQDcW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://elitebeam.shop/Jtv/mpd.php?id=1251&token=AXQDcW
+
+#EXTINF:-1 tvg-id="2937" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Update_India.png" group-title="News",Update India
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://elitebeam.shop/Jtv/keys.php?id=2937&token=AXQDcW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://elitebeam.shop/Jtv/mpd.php?id=2937&token=AXQDcW
+
+#EXTINF:-1 tvg-id="3283" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/VACC_24_News.png" group-title="News",VACC 24 News
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://elitebeam.shop/Jtv/keys.php?id=3283&token=AXQDcW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://elitebeam.shop/Jtv/mpd.php?id=3283&token=AXQDcW
+
+#EXTINF:-1 tvg-id="2423" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Bharat.png" group-title="News",Vande Bharat News
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://elitebeam.shop/Jtv/keys.php?id=2423&token=AXQDcW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://elitebeam.shop/Jtv/mpd.php?id=2423&token=AXQDcW
+
+#EXTINF:-1 tvg-id="3214" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vertent_Samachar_Plus_24x7.png" group-title="News",Vertent Samachar Plus 24x7
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://elitebeam.shop/Jtv/keys.php?id=3214&token=AXQDcW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://elitebeam.shop/Jtv/mpd.php?id=3214&token=AXQDcW
+
+#EXTINF:-1 tvg-id="510" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/VIP_News.png" group-title="News",VIP News
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://elitebeam.shop/Jtv/keys.php?id=510&token=AXQDcW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://elitebeam.shop/Jtv/mpd.php?id=510&token=AXQDcW
+
+#EXTINF:-1 tvg-id="1965" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/VNM_News.png" group-title="News",VNM TV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://elitebeam.shop/Jtv/keys.php?id=1965&token=AXQDcW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://elitebeam.shop/Jtv/mpd.php?id=1965&token=AXQDcW
+
+#EXTINF:-1 tvg-id="412" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Wion.png" group-title="News",Wion
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://elitebeam.shop/Jtv/keys.php?id=412&token=AXQDcW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://elitebeam.shop/Jtv/mpd.php?id=412&token=AXQDcW
+
+#EXTINF:-1 tvg-id="1560" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/35mm.png" group-title="Devotional",35mm
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://elitebeam.shop/Jtv/keys.php?id=1560&token=AXQDcW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://elitebeam.shop/Jtv/mpd.php?id=1560&token=AXQDcW
+
+#EXTINF:-1 tvg-id="175" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png" group-title="Devotional",Aastha
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://elitebeam.shop/Jtv/keys.php?id=175&token=AXQDcW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://elitebeam.shop/Jtv/mpd.php?id=175&token=AXQDcW
+
+#EXTINF:-1 tvg-id="594" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Bhajan.png" group-title="Devotional",Aastha Bhajan
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://elitebeam.shop/Jtv/keys.php?id=59
