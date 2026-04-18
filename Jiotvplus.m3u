@@ -1051,3 +1051,451 @@ https://elitebeam.shop/Jtv/mpd.php?id=3096&token=AXQDcW
 https://elitebeam.shop/Jtv/mpd.php?id=1154&token=AXQDcW
 
 #EXTINF:-1 t
+#EXTINF:-1,CNBC TV18 Prime
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=143
+#EXTINF:-1,Colors HD
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=144
+#EXTINF:-1,History TV18 HD
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=146
+#EXTINF:-1,Movies Now HD
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=151
+#EXTINF:-1,Sony SAB
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=154
+#EXTINF:-1,Sony Ten 5 HD
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=155
+#EXTINF:-1,Sony Ten 1 HD
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=162
+#EXTINF:-1,Travelxp HD
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=164
+#EXTINF:-1,Cartoon Network Telugu
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=166
+#EXTINF:-1,Aaj Tak
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=173
+#EXTINF:-1,Aastha
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=175
+#EXTINF:-1,ABP News India
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=177
+#EXTINF:-1,Asianet News
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=180
+#EXTINF:-1,B4U Movies
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=182
+#EXTINF:-1,B4U Music
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=183
+#EXTINF:-1,CNBC Awaaz
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=190
+#EXTINF:-1,CNN
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=193
+#EXTINF:-1,Colors Gujarati
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=196
+#EXTINF:-1,DD National
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=202
+#EXTINF:-1,DD News
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=203
+#EXTINF:-1,DD Sports
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=204
+#EXTINF:-1,ET Now
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=212
+#EXTINF:-1,News 18 India
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=231
+#EXTINF:-1,News18 Lokmat
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=232
+#EXTINF:-1,India TV
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=235
+#EXTINF:-1,Discovery
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=242
+#EXTINF:-1,MTV
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=248
+#EXTINF:-1,Music India
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=250
+#EXTINF:-1,NDTV 24x7
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=255
+#EXTINF:-1,NDTV India
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=258
+#EXTINF:-1,NDTV Profit
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=259
+#EXTINF:-1,Rishtey
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=279
+#EXTINF:-1,Animal Planet HD World
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=286
+#EXTINF:-1,Sanskar
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=288
+#EXTINF:-1,Sony Max SD
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=289
+#EXTINF:-1,sonic Tamil
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=290
+#EXTINF:-1,SET HD
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=291
+#EXTINF:-1,Times NOW
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=383
+#EXTINF:-1,PM e Vidya 01
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=400
+#EXTINF:-1,Swayam Prabha 19
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=401
+#EXTINF:-1,PM e Vidya 02
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=402
+#EXTINF:-1,Swayam Prabha 20
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=403
+#EXTINF:-1,PM e Vidya 07
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=404
+#EXTINF:-1,PM e Vidya 03
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=405
+#EXTINF:-1,PM e Vidya 04
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=406
+#EXTINF:-1,PM e Vidya 05
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=407
+#EXTINF:-1,PM e Vidya 06
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=408
+#EXTINF:-1,PM e Vidya 08
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=409
+#EXTINF:-1,PM e Vidya 09
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=410
+#EXTINF:-1,PM e Vidya 10
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=411
+#EXTINF:-1,Wion
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=412
+#EXTINF:-1,J Movies
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=417
+#EXTINF:-1,Jaya Plus
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=418
+#EXTINF:-1,Jaya TV HD
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=419
+#EXTINF:-1,Jaya Max
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=420
+#EXTINF:-1,GOA 365
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=421
+#EXTINF:-1,In Goa 24x7
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=422
+#EXTINF:-1,Colors Tamil HD
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=429
+#EXTINF:-1,9X Jalwa
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=440
+#EXTINF:-1,9x Jhakaas
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=441
+#EXTINF:-1,Zee 24 Taas
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=442
+#EXTINF:-1,Discovery HD World
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=463
+#EXTINF:-1,Zee 24 Ghanta
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=464
+#EXTINF:-1,Jaihind tv
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=465
+#EXTINF:-1,Dharma Sandesh
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=466
+#EXTINF:-1,Sony SAB HD
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=471
+#EXTINF:-1,Sony Pal
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=474
+#EXTINF:-1,Sony Max HD
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=476
+#EXTINF:-1,MN+ HD
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=477
+#EXTINF:-1,TLC HD
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=479
+#EXTINF:-1,Epic
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=481
+#EXTINF:-1,Colors Cineplex
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=482
+#EXTINF:-1,Sony MAX2
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=483
+#EXTINF:-1,Bhojpuri Cinema
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=486
+#EXTINF:-1,CNBC TV18
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=489
+#EXTINF:-1,CNBC Bajar
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=490
+#EXTINF:-1,Mirror Now
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=491
+#EXTINF:-1,CNN NEWS 18
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=492
+#EXTINF:-1,India Today
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=493
+#EXTINF:-1,AL Jazeera
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=494
+#EXTINF:-1,News X
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=495
+#EXTINF:-1,dw
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=496
+#EXTINF:-1,India news
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=498
+#EXTINF:-1,News Nation
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=499
+#EXTINF:-1,News 24
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=501
+#EXTINF:-1,Good News Today
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=502
+#EXTINF:-1,IBC24
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=503
+#EXTINF:-1,Zee News
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=504
+#EXTINF:-1,VIP News
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=510
+#EXTINF:-1,Mh One News
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=511
+#EXTINF:-1,India News UP
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=512
+#EXTINF:-1,India News Rajasthan
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=513
+#EXTINF:-1,Sony Ten 1
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=514
+#EXTINF:-1,India News MP
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=515
+#EXTINF:-1,India News Haryana
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=516
+#EXTINF:-1,Chardikla Time TV
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=517
+#EXTINF:-1,Sudarshan
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=518
+#EXTINF:-1,Sadhna News Plus
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=519
+#EXTINF:-1,Sansad TV HD
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=520
+#EXTINF:-1,Sansad TV
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=522
+#EXTINF:-1,Ten 2
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=523
+#EXTINF:-1,Sony Ten 3 Hindi
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=524
+#EXTINF:-1,Sony Ten 5
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=525
+#EXTINF:-1,Investigation Discovery
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=527
+#EXTINF:-1,DD India
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=528
+#EXTINF:-1,News18 MP
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=529
+#EXTINF:-1,News18 UP
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=530
+#EXTINF:-1,News18 RAJASTHAN
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=531
+#EXTINF:-1,Dabangg
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=532
+#EXTINF:-1,Raj Pariwar
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=533
+#EXTINF:-1,Dhamaal TV
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=535
+#EXTINF:-1,DD Madhya Pradesh
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=536
+#EXTINF:-1,DD Rajasthan (Jaipur)
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=538
+#EXTINF:-1,DD Bihar
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=539
+#EXTINF:-1,DD Uttar Pradesh
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=540
+#EXTINF:-1,Discovery Turbo
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=541
+#EXTINF:-1,Pogo Tamil
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=542
+#EXTINF:-1,Nick Telugu
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=543
+#EXTINF:-1,Nick Junior
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=544
+#EXTINF:-1,Nick Hindi
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=545
+#EXTINF:-1,Nick Tamil
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=546
+#EXTINF:-1,Nickelodeon Jr.
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=548
+#EXTINF:-1,Discovery Kids Tamil
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=550
+#EXTINF:-1,TEST14 HD
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=551
+#EXTINF:-1,Discovery Kids 2
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=554
+#EXTINF:-1,Chintu TV
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=555
+#EXTINF:-1,Kochu TV
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=556
+#EXTINF:-1,Chutti TV
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=557
+#EXTINF:-1,Kushi TV
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=558
+#EXTINF:-1,Pogo Hindi
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=559
+#EXTINF:-1,GOOD TiMES
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=560
+#EXTINF:-1,Food Food
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=561
+#EXTINF:-1,Travelxp HD Hindi
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=562
+#EXTINF:-1,Kaumudy TV
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=563
+#EXTINF:-1,Animal Planet Hindi
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=566
+#EXTINF:-1,Animal Planet English
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=567
+#EXTINF:-1,Discovery Science
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=568
+#EXTINF:-1,D Tamil
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=569
+#EXTINF:-1,TLC Hindi
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=571
+#EXTINF:-1,Zee UP UK
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=572
+#EXTINF:-1,Discovery Bengali
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=573
+#EXTINF:-1,TLC English
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=574
+#EXTINF:-1,Discovery Hindi
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=575
+#EXTINF:-1,Discovery Telugu
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=576
+#EXTINF:-1,History TV18 HD Telugu
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=577
+#EXTINF:-1,History TV18 HD Hindi
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=578
+#EXTINF:-1,History TV18 HD Tamil
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=579
+#EXTINF:-1,DD bharati
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=580
+#EXTINF:-1,DD Kisan
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=583
+#EXTINF:-1,Mastiii
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=584
+#EXTINF:-1,9XM
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=587
+#EXTINF:-1,E 24
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=591
+#EXTINF:-1,ZOOM
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=592
+#EXTINF:-1,Sadhna
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=593
+#EXTINF:-1,Aastha Bhajan
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=594
+#EXTINF:-1,Prarthana Life
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=595
+#EXTINF:-1,Jinvani TV
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=596
+#EXTINF:-1,Satsang TV
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=597
+#EXTINF:-1,Sri Venkateshwar Bhakti
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=598
+#EXTINF:-1,Disha tv
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=599
+#EXTINF:-1,Ishwar TV
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=601
+#EXTINF:-1,Paras tv
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=602
+#EXTINF:-1,Nambikkai
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=603
+#EXTINF:-1,Channel Win
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=605
+#EXTINF:-1,Shalom
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=606
+#EXTINF:-1,Subhavartha TV
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=607
+#EXTINF:-1,Shubhsandesh TV
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=608
+#EXTINF:-1,mh1 Shraddha
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=609
+#EXTINF:-1,Darshan 24
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=611
+#EXTINF:-1,ABP Majha
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=612
+#EXTINF:-1,Newslive
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=613
+#EXTINF:-1,News 18 Tamilnadu
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=615
+#EXTINF:-1,Tv 9 Gujarat
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=616
+#EXTINF:-1,TV9 Maharashtra
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=617
+#EXTINF:-1,TV9 Telugu News
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=618
+#EXTINF:-1,TV9 Karnataka
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=619
+#EXTINF:-1,News18 Gujarati
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=620
+#EXTINF:-1,Rang
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=623
+#EXTINF:-1,Prag News
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=624
+#EXTINF:-1,Suvarna News
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=626
+#EXTINF:-1,News 18 Assam
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=627
+#EXTINF:-1,MBC
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=631
+#EXTINF:-1,Sakshi tv
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=632
+#EXTINF:-1,DY 365
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=633
+#EXTINF:-1,Flower TV
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=634
+#EXTINF:-1,Polimer News
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=636
+#EXTINF:-1,North East Live
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=637
+#EXTINF:-1,Ramdhenu
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=639
+#EXTINF:-1,ABP Asmita
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=641
+#EXTINF:-1,VTV Gujarati
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=642
+#EXTINF:-1,GS TV
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=643
+#EXTINF:-1,NTV
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=646
+#EXTINF:-1,Pratidin Time
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=647
+#EXTINF:-1,Mazhavil Manorama
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=648
+#EXTINF:-1,Raj News Malayalam
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=650
+#EXTINF:-1,Raj News Kannada
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=651
+#EXTINF:-1,Zee Bharat
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=652
+#EXTINF:-1,News18 Kannada News
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=653
+#EXTINF:-1,Zee Punjab Haryana HP
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=654
+#EXTINF:-1,News18 Punjab Haryana
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=655
+#EXTINF:-1,News 9
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=656
+#EXTINF:-1,Zee Business
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=657
+#EXTINF:-1,Zee MP Chattisgarh
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=658
+#EXTINF:-1,Zee Rajasthan
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=659
+#EXTINF:-1,Zee Bihar Jharkhand
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=661
+#EXTINF:-1,Manorama News
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=662
+#EXTINF:-1,Raj News Telugu
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=664
+#EXTINF:-1,HM TV
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=665
+#EXTINF:-1,ABN Andhra Jyothi
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=666
+#EXTINF:-1,T News
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=667
+#EXTINF:-1,TV 5 News
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=668
+#EXTINF:-1,6 TV
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=670
+#EXTINF:-1,Sathiyam TV
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=671
+#EXTINF:-1,ABP Ananda
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=672
+#EXTINF:-1,News7 Tamil
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=673
+#EXTINF:-1,Assam Talks
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=675
+#EXTINF:-1,Sun News
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=676
+#EXTINF:-1,Puthiya Thalimurai
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=677
+#EXTINF:-1,Udaya Movies
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=678
+#EXTINF:-1,Sun Life
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=682
+#EXTINF:-1,Raj Digital Plus
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=683
+#EXTINF:-1,Gemini Life
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=684
+#EXTINF:-1,Alankar
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=686
+#EXTINF:-1,News Time TV
+https://jioplaylist.joinus-apiworker.workers.dev/
