@@ -1,0 +1,74 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Live Cricket Streams</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f2f5;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .stream-container {
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            margin: 20px 0;
+            padding: 20px;
+            width: 100%;
+            max-width: 800px;
+        }
+        h1, h2 {
+            color: #2c3e50;
+            text-align: center;
+        }
+        video {
+            width: 100%;
+            border-radius: 8px;
+            background-color: #000;
+        }
+        .match-title {
+            font-size: 1.5em;
+            margin-bottom: 10px;
+            text-align: center;
+            font-weight: bold;
+        }
+        .match-info {
+            font-size: 0.9em;
+            color: #777;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Live Cricket Matches</h1>
+
+    <div class="stream-container">
+        <div class="match-title">Altruistian Vs Capital Strikers</div>
+        <div class="match-info">Group: Cricket | Language: ENGLISH</div>
+        <video controls autoplay muted playsinline>
+            <source src="https://in-mc-fdlive.fancode.com/mumbai/136213_english_hls_8676c616d286820ta-di_h264/index.m3u8" type="application/x-mpegURL">
+            Your browser does not support the video tag or HLS format.
+        </video>
+    </div>
+
+    <div class="stream-container">
+        <div class="match-title">Western Suburbs Women Vs Wynnum Manly Women</div>
+        <div class="match-info">Group: Cricket | Language: ENGLISH</div>
+        <video controls playsinline>
+            <source src="https://in-mc-fdlive.fancode.com/mumbai/135817_english_hls_b5edf17b3235163ta-di_h264/index.m3u8" type="application/x-mpegURL">
+            Your browser does not support the video tag or HLS format.
+        </video>
+    </div>
+
+</body>
+</html>
